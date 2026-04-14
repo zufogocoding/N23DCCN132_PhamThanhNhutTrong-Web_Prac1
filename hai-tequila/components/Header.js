@@ -6,7 +6,6 @@ export default function Header() {
         <a href="#" className="text-indigo-500">Home</a>
         <a href="#" className="text-indigo-500">Articles</a>
         <a href="#" className="text-indigo-500">About</a>
-        <a href="#" className="text-indigo-500">Home</a>
       </nav>
       <button className="bg-indigo-600 text-white px-4 py-2 rounded-lg">
         Subscribe
